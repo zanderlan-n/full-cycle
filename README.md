@@ -5,3 +5,4 @@ Projeto desenvolvido para o curso Full Cycle, contendo todos os desafios realiza
 ## Desafios
 
 - Docker + Golang ✅
+- Docker + Nginx + Node ✅

@@ -2,7 +2,7 @@
 
 ## Sobre o Desafio
 
-Este repositório contém a solução para o Desafio 1 do curso FullCycle 3.0, focado em Docker. O objetivo deste desafio é criar uma imagem Docker que, ao ser executada, exiba a mensagem "Full Cycle Rocks!!". Além disso, a imagem deve ser baseada em Go e ter menos de 2MB de tamanho.
+O objetivo deste desafio é criar uma imagem Docker que, ao ser executada, exiba a mensagem "Full Cycle Rocks!!". Além disso, a imagem deve ser baseada em Go e ter menos de 2MB de tamanho.
 
 ![Tamanho do Container](./docs/container-size.png)
 

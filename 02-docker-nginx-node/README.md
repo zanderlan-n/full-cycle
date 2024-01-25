@@ -1,4 +1,4 @@
-# Desafio 1: Docker + Nginx + Node.js
+# Desafio 2: Docker + Nginx + Node.js
 
 ## Sobre o Desafio
 

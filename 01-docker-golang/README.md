@@ -6,6 +6,8 @@ O objetivo deste desafio é criar uma imagem Docker que, ao ser executada, exiba
 
 ![Tamanho do Container](./docs/container-size.png)
 
+[Imagem no Docker Hub](https://hub.docker.com/r/zanderlan/fullcycle)
+
 ## Estrutura do Projeto
 
 A estrutura do projeto é a seguinte:
